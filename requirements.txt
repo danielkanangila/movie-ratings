@@ -3,3 +3,4 @@ python-dotenv
 django-cors-headers 
 dj-database-url
 django-rest-knox
+corsheaders
